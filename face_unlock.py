@@ -62,7 +62,8 @@ while True:
 		for name, (top, right, bottom, left) in predictions:
 			# Draw a box around the face using the Pillow module
 			#draw.rectangle(((left, top), (right, bottom)), outline=(0, 0, 255))
-			os.popen('gnome-screensaver-command -d && xdotool key Return')
+			if name not in "unknown":
+				os.popen('gnome-screensaver-command -d && xdotool key Return')
 
 			# There's a bug in Pillow where it blows up with non-UTF-8 text
 			# when using the default bitmap font

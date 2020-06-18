@@ -3,6 +3,9 @@
 ## Introduction
 We can lock and unlock our Ubuntu system using face recognition(currently only on Ubuntu). 
 
+## Demo
+![Demo video](demo.gif)
+
 ## Requirements
 
 Install below the required library in your local machine.
@@ -26,6 +29,9 @@ I have used three python files to solve this issue.
 3) **face_unlock.py**
  This is an important python file that will detect your face using the webcam and unlock the system.
 
+## Having problems?
+
+If you run into problems, Please feel free to connect me on [Linkedin](https://www.linkedin.com/in/bala-venkatesh-67964247/) [Twitter](https://twitter.com/balavenkatesh22)
 
 To do:
 - [ ] Support Windows and Mac OS.
