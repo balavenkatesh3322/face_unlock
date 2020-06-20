@@ -31,9 +31,15 @@ I have used three python files to solve this issue.
 
 ## Having problems?
 
-If you run into problems, Please feel free to connect me on [Linkedin](https://www.linkedin.com/in/bala-venkatesh-67964247/) [Twitter](https://twitter.com/balavenkatesh22)
+If you run into problems, Please feel free to connect me on [Linkedin](https://www.linkedin.com/in/bala-venkatesh-67964247/) and [Twitter](https://twitter.com/balavenkatesh22)
+
+
+## Contributing
+
+Code contributions are also very welcome. feel free to open an issue for that too.
+
 
 To do:
 - [ ] Support Windows and Mac OS.
-- [ ] Train face using Deep learning technique.
-- [ ] Add feature to access at the UI level.
+- [ ] Train face using browser(UI).
+- [ ] Increase performance and speed.
